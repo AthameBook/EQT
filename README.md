@@ -19,7 +19,11 @@ opcjonalne argumenty:
 ```
 
 #### Dodatkowe wymagania:
+```
 * python -m pip install lxml cssutils pyinstaller (tylko do kompilacji)
+```
 
 #### Kompilacja z narzędziem Pyinstaller:
+```
 * pyinstaller -Fn EQT ./EQT/__main__.py
+```
